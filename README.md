@@ -29,3 +29,4 @@
 |  Read: 17                 |  [Read:17 ](Assignment17.md)   |
 |  Read: 18                 |  [Read:18 ](Assignment18.md)   |
 |  Read: 19                 |  [Read:19 ](Assignment19.md)   |
+|  Read: 26                 |  [Read:26 ](Assignment26.md)   |
