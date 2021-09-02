@@ -32,3 +32,5 @@
 |  Read: 26                 |  [Read:26 ](Assignment26.md)   |
 |  Read: 27                 |  [Read:27 ](Assignment27.md)   |
 |  Read: 28                 |  [Read:28 ](Assignment28.md)   |
+|  Read: 29                 |  [Read:29 ](Assignment29.md)   |
+|  Read: 30                 |  [Read:30 ](Assignment30.md)   |
