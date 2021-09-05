@@ -12,7 +12,7 @@
 |        Assignment         |              Link              |
 | :-------------------------| :----------------------------- |
 |  Read: 01                 |  [Read:01 ](Assignment01.md)   |
-|  Read: 02                 |  [Read:02 ](Assignment02.md)   | 
+|  Read: 02                 |  [Read:02 ](Assignment02.md)   |
 |  Read: 03                 |  [Read:03 ](Assignment03.md)   |
 |  Read: 04                 |  [Read:04 ](Assignment04.md)   |
 |  Read: 05                 |  [Read:05 ](Assignment05.md)   |
@@ -34,3 +34,4 @@
 |  Read: 28                 |  [Read:28 ](Assignment28.md)   |
 |  Read: 29                 |  [Read:29 ](Assignment29.md)   |
 |  Read: 30                 |  [Read:30 ](Assignment30.md)   |
+|  Read: 31                 |  [Read:31 ](Assignment31.md)   |
