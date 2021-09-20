@@ -40,3 +40,4 @@
 |  Read: 37                 |  [Read:37](Assignment37.md)   |
 |  Read: 38                 |  [Read:38](Assignment38.md)   |
 |  Read: 41                 |  [Read:41](Assignment41.md)   |
+|  Read: 42                 |  [Read:42](Assignment42.md)   |
